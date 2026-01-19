@@ -1,8 +1,13 @@
 # 💫 About Me:
+
 👋 Hi, I'm Dheeraj — a Python Developer & Data Scientist passionate about AI-driven solutions.
+
 💡 Skilled in Machine Learning, Deep Learning, NLP, and Generative AI with real-world project experience.
+
 🚀 Building intelligent systems using Python, Flask, MySQL, OpenCV, and Big Data technologies.
+
 📊 Proficient in data analytics and visualization using Power BI to turn data into insights.
+
 🌱 Currently exploring innovative applications of AI to solve meaningful problems using code.
 
 
