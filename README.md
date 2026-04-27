@@ -23,6 +23,7 @@ Python Developer | Backend & Machine Learning
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-%23ff1709.svg?style=for-the-badge\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
